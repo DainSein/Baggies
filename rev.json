@@ -1,6 +1,6 @@
 {
   "css/global.css": "css/global-1061e468a8.css",
-  "css/main.css": "css/main-53e20528b5.css",
+  "css/main.css": "css/main-a0f2668622.css",
   "css/vendor.css": "css/vendor-1fcd3f22cf.css",
   "fonts/OpenSans-Bold.woff2": "fonts/OpenSans-Bold-cf31d49608.woff2",
   "fonts/OpenSans-Regular.woff2": "fonts/OpenSans-Regular-527d6d3676.woff2",
@@ -26,6 +26,6 @@
   "img/production-mini-6.jpg": "img/production-mini-6-c23101e2d0.jpg",
   "img/production-mini-7.jpg": "img/production-mini-7-d73ce62151.jpg",
   "img/sprite.svg": "img/sprite-f5ca9785a5.svg",
-  "js/main.js": "js/main-791a09925a.js",
-  "js/vendor.js": "js/vendor-992a04fd8a.js"
+  "js/main.js": "js/main-e823e449fb.js",
+  "js/vendor.js": "js/vendor-252a6219f5.js"
 }
