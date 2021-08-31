@@ -1,6 +1,6 @@
 {
-  "css/global.css": "css/global-3910cf9f5d.css",
-  "css/main.css": "css/main-97d6ea078d.css",
+  "css/global.css": "css/global-1061e468a8.css",
+  "css/main.css": "css/main-53e20528b5.css",
   "css/vendor.css": "css/vendor-1fcd3f22cf.css",
   "fonts/OpenSans-Bold.woff2": "fonts/OpenSans-Bold-cf31d49608.woff2",
   "fonts/OpenSans-Regular.woff2": "fonts/OpenSans-Regular-527d6d3676.woff2",
@@ -12,6 +12,7 @@
   "img/certificate-2.jpg": "img/certificate-2-55d1c84853.jpg",
   "img/certificate-3.jpg": "img/certificate-3-27e51a38ed.jpg",
   "img/hero-bag.jpg": "img/hero-bag-054dc4fd98.jpg",
+  "img/lorem.jpg": "img/lorem-1812b27929.jpg",
   "img/print-logo1.jpg": "img/print-logo1-e1ff85d07a.jpg",
   "img/print-logo2.jpg": "img/print-logo2-3ee2706343.jpg",
   "img/production-1.jpg": "img/production-1-c17b635d77.jpg",
@@ -26,5 +27,5 @@
   "img/production-mini-7.jpg": "img/production-mini-7-d73ce62151.jpg",
   "img/sprite.svg": "img/sprite-f5ca9785a5.svg",
   "js/main.js": "js/main-791a09925a.js",
-  "js/vendor.js": "js/vendor-4483364f97.js"
+  "js/vendor.js": "js/vendor-992a04fd8a.js"
 }
